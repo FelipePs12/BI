@@ -1,2 +1,2 @@
 # BI
-# Read foi substituido pelo documento do projeto.
+# ReadME foi substituido pelo documento do projeto.
